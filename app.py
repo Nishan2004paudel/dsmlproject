@@ -8,6 +8,7 @@ from sklearn.preprocessing import OneHotEncoder
 # Declaring the teams
 
 teams = [
+    'Oval Invincibles',
     'London Spirit',
     'Southern Brave',
     'Welsh Fire',
