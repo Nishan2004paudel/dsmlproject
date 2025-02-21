@@ -22,10 +22,28 @@ teams = [
 #project 
 cities = ['London','Birmingham','Nottingham','Leeds','Manchester','Cardiff','Southampton']
 
+# Ensure the OneHotEncoder is fitted with all possible categories
+encoder = OneHotEncoder(categories=[teams, teams, cities], handle_unknown='ignore')
+
+# Assuming you have a DataFrame `df` with the columns 'batting_team', 'bowling_team', and 'city'
+# Fit the encoder with all possible categories
+encoder.fit(pd.DataFrame({
+    'batting_team': teams,
+    'bowling_team': teams,
+    'city': cities
+}))
+
+# Save the fitted encoder to a file if needed
+with open('encoder.pkl', 'wb') as f:
+    pickle.dump(encoder, f)
+
 # Loading our machine learning model from a saved pickle file
 
 pipe = pickle.load(open('pipe.pkl', 'rb')) #remember all folders including pipe.pkl,
 # notebook, datasets exist in the same directory
+
+# Loading the fitted encoder
+encoder = pickle.load(open('encoder.pkl', 'rb'))
 
 # Setting up the app's title
 
