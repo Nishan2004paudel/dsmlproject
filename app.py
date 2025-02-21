@@ -19,7 +19,7 @@ teams = [
 ]
 
 # declaring the cities where the matches are going to take place
-
+#project 
 cities = ['London','Birmingham','Nottingham','Leeds','Manchester','Cardiff','Southampton']
 
 # Loading our machine learning model from a saved pickle file
