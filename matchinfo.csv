@@ -1,0 +1,134 @@
+id,season,city ,date,team1,team2,toss_winner,toss_decision,winner,winner_by_runs,winner_by_wickets,player_of_match,venue,umpire 1,umpire 2,tv-umpire,no_result,tie,result,dl-applied
+1252666,2021,London,7/22/2021,Oval Invincibles,Manchester Originals,Manchester Originals,field,Oval Invincibles,9,,SW Billings,"Kennington Oval, London",DJ Millns,MJ Saggers,NJ Llong,0,0,normal ,0
+1252667,2021,Birmingham,7/23/2021,London Spirit,Birmingham Phoenix,Birmingham Phoenix,field,Birmingham Phoenix,,3,Z Crawley,"Edgbaston, Birmingham",GD Lloyd,RT Robinson,NL Bainton,0,0,normal ,0
+1252668,2021,Nottingham,7/24/2021,Southern Brave,Trent Rockets,Southern Brave,bat,Trent Rockets,,9,M de Lange,"Trent Bridge,Nottingham",DJ Millns,RJ Warren,RT Robinson,0,0,normal ,0
+1252669,2021,Leeds,7/24/2021,Welsh Fire,Northern Superchargers,Northern Superchargers,field,Welsh Fire,5,,Qais Ahmad,"Headingley, Leeds",NA Mallender,NJ Llong,MJ Saggers,0,0,normal ,0
+1252671,2021,Manchester,7/25/2021,Birmingham Phoenix,Manchester Originals,Birmingham Phoenix,bat,Manchester Originals,,6,MW Parkinson,"Old Trafford, Manchester",AG Wharf,SJ O'Shaughnessy,NJ Llong,0,0,normal ,0
+1252672,2021,Nottingham,7/26/2021,Northern Superchargers,Trent Rockets,Northern Superchargers,bat,Trent Rockets,,2,Rashid Khan,"Trent Bridge,Nottingham",RJ Warren,RT Robinson,MJ Saggers,0,0,normal ,0
+1252673,2021,Cardiff,7/27/2021,Welsh Fire,Southern Brave,Southern Brave,field,Welsh Fire,18,,JM Bairstow,"Sophia Gardens, Cardiff",NJ Llong,RJ Bailey,NL Bainton,0,0,normal ,0
+1252675,2021,London,7/29/2021,Trent Rockets,London Spirit,London Spirit,field,Trent Rockets,7,,DJM Short,"Lord's, London",AG Wharf,NJ Llong,PK Baldwin,0,0,normal ,0
+1252676,2021,Southampton,7/30/2021,Birmingham Phoenix,Southern Brave,Southern Brave,field,Southern Brave,,4,JM Vince,"The Rose Bowl, Southampton",DJ Millns,MJ Saggers,NL Bainton,0,0,normal ,0
+1252677,2021,Cardiff,7/31/2021,Welsh Fire,Manchester Originals,Welsh Fire,bat,Manchester Originals,,7,JM Clarke,"Sophia Gardens, Cardiff",RJ Bailey,RT Robinson,PK Baldwin,0,0,normal ,0
+1252678,2021,Leeds,7/31/2021,Oval Invincibles,Northern Superchargers,Oval Invincibles,bat,Northern Superchargers,,6,HC Brook,"Headingley, Leeds",AG Wharf,NGB Cook,NJ Llong,0,0,normal ,0
+1252679,2021,Birmingham,8/1/2021,Trent Rockets,Birmingham Phoenix,Birmingham Phoenix,field,Birmingham Phoenix,,6,WCF Smeed,"Edgbaston, Birmingham",NJ Llong,SJ O'Shaughnessy,RT Robinson,0,0,normal ,0
+1252680,2021,London,8/1/2021,Southern Brave,London Spirit,London Spirit,field,Southern Brave,4,,CJ Jordan,"Lord's, London",GD Lloyd,RJ Warren,MJ Saggers,0,0,normal ,0
+1252681,2021,London,8/2/2021,Welsh Fire,Oval Invincilbes,Oval Invincibles,field,Oval Invincibles,,6,SW Billings,"Kennington Oval, London",AG Wharf,NA Mallender,PK Baldwin,0,0,normal ,0
+1252682,2021,London,8/3/2021,Northern Superchargers,London Spirit,Northern Superchargers,bat,Northern Superchargers,63,,DJ Willey,"Lord's, London",NJ Llong,SJ O'Shaughnessy,RT Robinson,0,0,normal ,0
+1252683,2021,Birmingham,8/4/2021,Oval Invincibles,Birmingham Phoenix,Birmingham Phoenix,field,Birmingham Phoenix,,6,CG Benjamin,"Edgbaston, Birmingham",PJ Hartley,RJ Warren,NL Bainton,0,0,normal ,0
+1252684,2021,Manchester,8/5/2021,Manchester Originals,Southern Brave,Southern Brave,field,,,,,"Old Trafford, Manchester",SJ O'Shaughnessy,RT Robinson,NJ Llong,1,0,noresult,0
+1252685,2021,Cardiff,8/6/2021,Welsh Fire,Trent Rockets,Trent Rockets,field,Trent Rockets,,6,SR Patel,"Sophia Gardens, Cardiff",MJ Saggers,RJ Bailey,NL Bainton,0,0,normal ,0
+1252686,2021,Southampton,8/7/2021,Northern Superchargers,Southern Brave,Northern Superchargers,bat,Southern Brave,,5,Q de Kock,"The Rose Bowl, Southampton",GD Lloyd,RT Robinson,PK Baldwin,0,0,normal ,0
+1252687,2021,London,8/8/2021,Oval Invincibles,Trent Rockets,Trent Rockets,field,Oval Invincibles,9,,JJ Roy,"Kennington Oval, London",NGB Cook,NJ Llong,MJ Saggers,0,0,normal ,0
+1252688,2021,Birmingham,8/9/2021,Birmingham Phoenix,Welsh Fire,Welsh Fire,field,Birmingham Phoenix,93,,Imran Tahir,"Edgbaston, Birmingham",SJ O'Shaughnessy,RT Robinson,PK Baldwin,0,0,normal,0
+1252689,2021,Manchester,8/10/2021,London Spirit,Manchester Originals,London Spirit,bat,London Spirit,6,,BTJ Wheal,"Old Trafford, Manchester",MJ Saggers,RJ Bailey,NJ Llong,0,0,normal,0
+1252690,2021,Southampton,8/11/2021,Welsh Fire,Southern Brave,Southern Brave,field,Southern Brave,,8,Q de Kock,"The Rose Bowl, Southampton",DJ Millns,RJ Warren,RT Robinson,0,0,normal,0
+1252691,2021,Leeds,8/12/2021,Northern Superchargers,Manchester Originals,Manchester Originals,field,Northern Superchargers,69,,JA Simpson,"Headingley, Leeds",MJ Saggers,RJ Bailey,NL Bainton,0,0,normal,0
+1252692,2021,Nottingham,8/13/2021,Birmingham Phoenix,Trent Rockets,Trent Rockets,field,Birmingham Phoenix,16,,LS Livingstone,"Trent Bridge,Nottingham",DJ Millns,PJ Hartley,MJ Saggers,0,0,normal,0
+1252693,2021,London,8/14/2021,London Spirit,Oval Invincilbes,London Spirit,bat,Oval Invincibles,,2,LJ Evans,"Kennington Oval, London",NA Mallender,NGB Cook,NL Bainton,0,0,normal,0
+1252694,2021,Nottingham,8/15/2021,Manchester Originals,Trent Rockets,Manchester Originals,bat,Trent Rockets,,7,DJ Malan,"Trent Bridge,Nottingham",RJ Warren,SJ O'Shaughnessy,PK Baldwin,0,0,normal,0
+1252695,2021,Southampton,8/16/2021,Oval Invincibles,Southern Brave,Southern Brave,field,Southern Brave,,6,AL Davies,"The Rose Bowl, Southampton",MJ Saggers,RJ Bailey,NJ Llong,0,0,normal,0
+1252696,2021,Leeds,8/17/2021,Northern Superchargers,Birmingham Phoenix,Birmingham Phoenix,field,Birmingham Phoenix,,8,LS Livingstone,"Headingley, Leeds",NA Mallender,RJ Warren,RT Robinson,0,0,normal,0
+1252697,2021,Cardiff,8/18/2021,London Spirit,Welsh Fire,Welsh Fire,field,Welsh Fire,,3,GD Phillips,"Sophia Gardens, Cardiff",NGB Cook,NJ Llong,MJ Saggers,0,0,normal,0
+1252698,2021,London,8/20/2021,Trent Rockets,Southern Brave,Southern Brave,field,Southern Brave,,7,GHS Garton,"Kennington Oval, London",DJ Millns,RJ Warren,NL Bainton,0,0,normal,0
+1252699,2021,London,8/21/2021,Southern Brave,Birmingham Phoenix,Birmingham Phoenix,field,Southern Brave,32,,PR Stirling,"Lord's, London",AG Wharf,MJ Saggers,NJ Llong,0,0,normal,0
+1299171,2022,Southampton,8/3/2022,Welsh Fire,Southern Brave,Southern Brave,field,Southern Brave,,9,JM Vince,"The Rose Bowl, Southampton",AG Wharf,RJ Warren,PK Baldwin,0,0,normal,0
+1299172,2022,London,8/4/2022,London Spirit,Oval Invincilbes,Oval Invincibles,field,London Spirit,3,,NT Ellis,"Kennington Oval, London",DJ Millns,NGB Cook,NJ Llong,0,0,normal,0
+1299173,2022,Manchester,8/5/2022,Manchester Originals,Northern Superchargers,Northern Superchargers,field,Northern Superchargers,,6,A Lyth,"Old Trafford, Manchester",NA Mallender,RJ Bailey,SJ O'Shaughnessy,0,0,normal,0
+1299174,2022,Nottingham,8/6/2022,Birmingham Phoenix,Trent Rockets,Trent Rockets,field,Trent Rockets,,6,AD Hales,"Trent Bridge,Nottingham",PJ Hartley,SJ O'Shaughnessy,DJ Millns,0,0,normal,0
+1299175,2022,Cardiff,8/7/2022,Oval Invincibles,Welsh Fire,Welsh Fire,field,Oval Invincibles,39,,WG Jacks,"Sophia Gardens, Cardiff",AG Wharf,NJ Llong,PK Baldwin,0,0,normal,0
+1299176,2022,London,8/8/2022,London Spirit,Manchester Originals,London Spirit,bat,London Spirit,52,,JA Thompson,"Lord's, London",NA Mallender,RJ Warren,NJ Llong,0,0,normal,0
+1299177,2022,Leeds,8/9/2022,Northern Superchargers,Trent Rockets,Trent Rockets,field,Trent Rockets,,7,DJ Malan,"Headingley, Leeds",DJ Millns,ID Blackwell,SJ O'Shaughnessy,0,0,normal,0
+1299178,2022,Birmingham,8/10/2022,Birmingham Phoenix,Southern Brave,Southern Brave,field,Birmingham Phoenix,53,,WCF Smeed,"Edgbaston, Birmingham",NGB Cook,PJ Hartley,NL Bainton,0,0,normal,0
+1299179,2022,London,8/11/2022,Northern Superchargers,Oval Invincilbes,Oval Invincibles,field,Oval Invincibles,,3,SM Curran,"Kennington Oval, London",AG Wharf,RJ Bailey,NJ Llong,0,0,normal,0
+1299180,2022,Southampton,8/12/2022,London Spirit,Southern Brave,London Spirit,bat,London Spirit,9,,DJ Bell-Drummond,"The Rose Bowl, Southampton",BJ Debenham,NGB Cook,PK Baldwin,0,0,normal,0
+1299181,2022,Manchester,8/13/2022,Manchester Originals,Trent Rockets,Trent Rockets,field,Trent Rockets,,8,DJ Malan,"Old Trafford, Manchester",NJ Llong,SJ O'Shaughnessy,GD Lloyd,0,0,normal,0
+1299182,2022,Cardiff,8/13/2022,Birmingham Phoenix,Welsh Fire,Welsh Fire,field,Birmingham Phoenix,4,,KW Richardson,"Sophia Gardens, Cardiff",PJ Hartley,RJ Warren,AG Wharf,0,0,normal,0
+1299183,2022,Leeds,8/14/2022,Northern Superchargers,London Spirit,Northern Superchargers,bat,London Spirit,,7,AM Rossington,"Headingley, Leeds",GD Lloyd,Rob White,SJ O'Shaughnessy,0,0,normal,0
+1299184,2022,London,8/14/2022,Southern Brave,Oval Invincilbes,Oval Invincibles,field,Oval Invincibles,,7,WG Jacks,"Kennington Oval, London",AG Wharf,DJ Millns,NL Bainton,0,0,normal,0
+1299185,2022,Birmingham,8/15/2022,Trent Rockets,Birmingham Phoenix,Birmingham Phoenix,field,Birmingham Phoenix,,7,MM Ali,"Edgbaston, Birmingham",MJ Saggers,Tom Lungley,SJ O'Shaughnessy,0,0,normal,0
+1299186,2022,Manchester,8/16/2022,Manchester Originals,Welsh Fire,Welsh Fire,field,Manchester Originals,47,,SA Abbott,"Old Trafford, Manchester",DJ Millns,N Pratt,GD Lloyd,0,0,normal,0
+1299187,2022,Nottingham,8/17/2022,Trent Rockets,Oval Invincilbes,Oval Invincibles,field,Trent Rockets,25,,AD Hales,"Trent Bridge,Nottingham",NA Mallender,RA Kettleborough,MJ Saggers,0,0,normal,0
+1299188,2022,Southampton,8/18/2022,Manchester Originals,Southern Brave,Southern Brave,field,Manchester Originals,68,,AD Russell,"The Rose Bowl, Southampton",MJ Saggers,RJ Bailey,NL Bainton,0,0,normal,0
+1299189,2022,Birmingham,8/19/2022,Northern Superchargers,Birmingham Phoenix,Birmingham Phoenix,field,Northern Superchargers,32,,D Wiese,"Edgbaston, Birmingham",James Middlebrook,SJ O'Shaughnessy,M Burns,0,0,normal,0
+1299190,2022,Nottingham,8/20/2022,London Spirit,Trent Rockets,Trent Rockets,field,Trent Rockets,,6,C Munro,"Trent Bridge,Nottingham",MJ Saggers,PR Pollard,DJ Millns,0,0,normal,0
+1299191,2022,Leeds,8/21/2022,Manchester Originals,Northern Superchargers,Northern Superchargers,field,Manchester Originals,23,,PD Salt,"Headingley, Leeds",M Burns,Rob White,PK Baldwin,0,0,normal,0
+1299192,2022,Cardiff,8/22/2022,Welsh Fire,Southern Brave,Southern Brave,field,Southern Brave,,9,GHS Garton,"Sophia Gardens, Cardiff",BJ Debenham,GD Lloyd,NL Bainton,0,0,normal,0
+1299193,2022,London,8/23/2022,Birmingham Phoenix,Oval Invincilbes,Oval Invincibles,field,Birmingham Phoenix,10,,KW Richardson,"Kennington Oval, London",James Middlebrook,MJ Saggers,NL Bainton,0,0,normal,0
+1299194,2022,London,8/24/2022,London Spirit,Welsh Fire,Welsh Fire,field,London Spirit,17,,DW Lawrence,"Lord's, London",Hassan Adnan,RA Kettleborough,GD Lloyd,0,0,normal,0
+1299195,2022,Southampton,8/25/2022,Trent Rockets,Southern Brave,Southern Brave,field,Southern Brave,,6,AL Davies,"The Rose Bowl, Southampton",AG Wharf,BV Taylor,S Redfern,0,0,normal,0
+1299196,2022,Cardiff,8/26/2022,Welsh Fire,Northern Superchargers,Welsh Fire,bat,Northern Superchargers,,6,A Lyth,"Sophia Gardens, Cardiff",RA Kettleborough,Tom Lungley,AG Wharf,0,0,normal,0
+1299197,2022,London,8/27/2022,London Spirit,Oval Invincilbes,London Spirit,bat,Oval Invincibles,,6,SM Curran,"Lord's, London",NJ Llong,RA Kettleborough,MJ Saggers,0,0,normal,0
+1299198,2022,Birmingham,8/28/2022,Manchester Originals,Birmingham Phoenix,Manchester Originals,bat,Manchester Originals,79,,TW Hartley,"Edgbaston, Birmingham",AG Wharf,PR Pollard,DJ Millns,0,0,normal,0
+1299199,2022,Nottingham,8/29/2022,Trent Rockets,Welsh Fire,Welsh Fire,field,Trent Rockets,29,,DJ Malan,"Trent Bridge,Nottingham",GD Lloyd,ID Blackwell,SJ O'Shaughnessy,0,0,normal,0
+1299200,2022,London,8/30/2022,London Spirit,Birmingham Phoenix,Birmingham Phoenix,field,Birmingham Phoenix,,1,MS Wade,"Lord's, London",MJ Saggers,M Burns,PK Baldwin,0,0,normal,0
+1299201,2022,Leeds,8/31/2022,Northern Superchargers,Southern Brave,Southern Brave,field,Northern Superchargers,16,,WD Parnell,"Headingley, Leeds",NA Mallender,SJ O'Shaughnessy,GD Lloyd,0,0,normal,0
+1299202,2022,Manchester,8/31/2022,Oval Invincibles,Manchester Originals,Oval Invincibles,bat,Manchester Originals,,6,J Little,"Old Trafford, Manchester",AG Wharf,NJ Llong,NL Bainton,0,0,normal,0
+1299203,2022,Southampton,9/2/2022,London Spirit,Manchester Originals,London Spirit,bat,Manchester Originals,,5,LJ Evans,"The Rose Bowl, Southampton",AG Wharf,RJ Warren,GD Lloyd,0,0,normal,0
+1299204,2022,London,9/3/2022,Manchester Originals,Trent Rockets,Manchester Originals,bat,Trent Rockets,,2,SJ Cook,"Lord's, London",MJ Saggers,M Burns,NJ Llong,0,0,normal,0
+1355606,2023,Nottingham,8/1/2023,Trent Rockets,Southern Brave,Southern Brave,field,Trent Rockets,6,,SR Hain,"Trent Bridge,Nottingham",MJ Saggers,RJ Warren,NJ Llong,0,0,normal,0
+1355607,2023,Cardiff,8/2/2023,Welsh Fire,Manchester Originals,Manchester Originals,field,Welsh Fire,9,,LWP Wells,"Sophia Gardens, Cardiff",BJ Debenham,ID Blackwell,PK Baldwin,0,0,normal,0
+1355608,2023,London,8/2/2023,London Spirit,Oval Invincilbes,Oval Invincibles,field,Oval Invincibles,,3,SP Narine,"Lord's, London",GD Lloyd,M Burns,SJ O'Shaughnessy,0,0,normal,0
+1355609,2023,Leeds,8/3/2023,Birmingham Phoenix,Northern Superchargers,Northern Superchargers,field,,,,,"Headingley, Leeds",RA Kettleborough,RJ Warren,NJ Llong,1,0,noresult,0
+1355610,2023,Southampton,8/4/2023,Southern Brave,Welsh Fire,Welsh Fire,field,Southern Brave,2,,CJ Jordan,"The Rose Bowl, Southampton",BJ Debenham,James Middlebrook,PK Baldwin,0,0,normal,0
+1355611,2023,Manchester,8/5/2023,Manchester Originals,London Spirit,London Spirit,field,,,,,"Old Trafford, Manchester",GD Lloyd,SJ O'Shaughnessy,S Redfern,1,0,noresult,0
+1355613,2023,Southampton,8/6/2023,Northern Superchargers,Southern Brave,Southern Brave,field,Northern Superchargers,60,,MW Short,"The Rose Bowl, Southampton",BJ Debenham,ID Blackwell,NL Bainton,0,0,normal,0
+1355614,2023,London,8/6/2023,Welsh Fire,Oval Invincilbes,Welsh Fire,bat,,,,TK Curran,"Kennington Oval, London",PR Pollard,Tom Lungley,PK Baldwin,0,1,tie,0
+1355615,2023,Manchester,8/7/2023,Manchester Originals,Birmingham Phoenix,Birmingham Phoenix,field,Manchester Originals,49,,Usama Mir,"Old Trafford, Manchester",Hassan Adnan,RA Kettleborough,SJ O'Shaughnessy,0,0,normal,0
+1355616,2023,London,8/8/2023,Southern Brave,London Spirit,London Spirit,field,,,,,"Lord's, London",LB Gcuma,PR Pollard,NL Bainton,1,0,noresult,0
+1355617,2023,Nottingham,8/9/2023,Northern Superchargers,Trent Rockets,Trent Rockets,field,Northern Superchargers,3,,D Wiese,"Trent Bridge,Nottingham",Mark Newell,RA Kettleborough,GD Lloyd,0,0,normal,0
+1355618,2023,London,8/9/2023,Oval Invincibles,Manchester Originals,Manchester Originals,field,Oval Invincibles,94,,H Klaasen,"Kennington Oval, London",LB Gcuma,Rob White,NL Bainton,0,0,normal,0
+1355619,2023,Birmingham,8/10/2023,Birmingham Phoenix,Welsh Fire,Birmingham Phoenix,bat,Welsh Fire,,6,SS Eskinazi,"Edgbaston, Birmingham",RJ Bailey,Rob White,S Redfern,0,0,normal,0
+1355620,2023,Leeds,8/11/2023,Oval Invincibles,Northern Superchargers,Oval Invincibles,bat,Oval Invincibles,9,,JM Cox,"Headingley, Leeds",RJ Warren,SJ O'Shaughnessy,GD Lloyd,0,0,normal,0
+1355621,2023,London,8/12/2023,London Spirit,Trent Rockets,Trent Rockets,field,London Spirit,2,,DW Lawrence,"Lord's, London",James Middlebrook,RA Kettleborough,NL Bainton,0,0,normal,0
+1355622,2023,Cardiff,8/12/2023,Welsh Fire,Southern Brave,Southern Brave,field,Southern Brave,,9,GHS Garton,"Sophia Gardens, Cardiff",Mark Newell,RJ Bailey,AG Wharf,0,0,normal,0
+1355623,2023,Leeds,8/13/2023,Manchester Originals,Northern Superchargers,Manchester Originals,bat,Manchester Originals,40,,J Overton,"Headingley, Leeds",DJ Millns,Tom Lungley,SJ O'Shaughnessy,0,0,normal,1
+1355624,2023,Birmingham,8/13/2023,Birmingham Phoenix,Oval Invincilbes,Oval Invincibles,field,Birmingham Phoenix,41,,JL Smith,"Edgbaston, Birmingham",PR Pollard,RJ Warren,S Redfern,0,0,normal,0
+1355625,2023,Cardiff,8/14/2023,Trent Rockets,Welsh Fire,Welsh Fire,field,Trent Rockets,4,,C Munro,"Sophia Gardens, Cardiff",GD Lloyd,ID Blackwell,AG Wharf,0,0,normal,0
+1355626,2023,London,8/15/2023,Oval Invincibles,London Spirit,Oval Invincibles,bat,Oval Invincibles,2,,WG Jacks,"Kennington Oval, London",RA Kettleborough,RJ Warren,NJ Llong,0,0,normal,0
+1355627,2023,Southampton,8/16/2023,Birmingham Phoenix,Southern Brave,Birmingham Phoenix,bat,Southern Brave,,4,TS Mills,"The Rose Bowl, Southampton",NJ Llong,Tom Lungley,DJ Millns,0,0,normal,0
+1355628,2023,Nottingham,8/17/2023,Manchester Originals,Trent Rockets,Trent Rockets,field,Manchester Originals,10,,PD Salt,"Trent Bridge,Nottingham",DJ Millns,MJ Saggers,AG Wharf,0,0,normal,0
+1355629,2023,London,8/18/2023,London Spirit,Northern Superchargers,Northern Superchargers,field,London Spirit,13,,RS Bopara,"Lord's, London",N Pratt,NJ Llong,M Burns,0,0,normal,0
+1355630,2023,Nottingham,8/19/2023,Trent Rockets,Birmingham Phoenix,Birmingham Phoenix,field,Trent Rockets,46,,M Carter,"Trent Bridge,Nottingham",Rob White,SJ O'Shaughnessy,DJ Millns,0,0,normal,0
+1355631,2023,Southampton,8/19/2023,Oval Invincibles,Southern Brave,Oval Invincibles,bat,Oval Invincibles,8,,TK Curran,"The Rose Bowl, Southampton",MJ Saggers,NL Bainton,M Burns,0,0,normal,0
+1355632,2023,Manchester,8/20/2023,Manchester Originals,Northern Superchargers,Manchester Originals,bat,Manchester Originals,81,,CG Harrison,"Old Trafford, Manchester",Hassan Adnan,James Middlebrook,GD Lloyd,0,0,normal,0
+1355633,2023,Cardiff,8/20/2023,London Spirit,Welsh Fire,London Spirit,bat,Welsh Fire,,6,TB Abell,"Sophia Gardens, Cardiff",AG Wharf,RJ Bailey,PK Baldwin,0,0,normal,0
+1355634,2023,London,8/21/2023,Trent Rockets,Oval Invincilbes,Trent Rockets,bat,Oval Invincibles,,5,SW Billings,"Kennington Oval, London",PR Pollard,Rob White,NJ Llong,0,0,normal,0
+1355635,2023,Leeds,8/22/2023,Northern Superchargers,Welsh Fire,Northern Superchargers,bat,Welsh Fire,,8,HC Brook,"Headingley, Leeds",MA Gough,M Burns,MJ Saggers,0,0,normal,0
+1355635,2023,Manchester,8/23/2023,Manchester Originals,Southern Brave,Southern Brave,field,Southern Brave,,6,DP Conway,"Old Trafford, Manchester",AG Wharf,BJ Debenham,DJ Millns,0,0,normal,0
+1355637,2023,Birmingham,8/24/2023,Birmingham Phoenix,London Spirit,London Spirit,field,Birmingham Phoenix,77,,AF Milne,"Edgbaston, Birmingham",MA Gough,PK Baldwin,MJ Saggers,0,0,normal,0
+1355638,2023,London,8/26/2023,Southern Brave,Manchester Originals,Manchester Originals,field,Manchester Originals,,7,JC Buttler,"Kennington Oval, London",MJ Saggers,RJ Warren,NJ Llong,0,0,normal,0
+1355639,2023,London,8/27/2023,Oval Invincibles,Manchester Originals,Manchester Originals,field,Oval Invincibles,14,,TK Curran,"Lord's, London",AG Wharf,M Burns,PK Baldwin,0,0,normal,0
+1417790,2024,London,7/23/2024,Birmingham Phoenix,Oval Invincilbes,Birmingham Phoenix,bat,Oval Invincibles,,8,A Zampa,"Kennington Oval, London",GD Lloyd,RJ Warren,PK Baldwin,0,0,normal,0
+1417791,2024,Southampton,7/24/2024,London Spirit,Southern Brave,London Spirit,bat,Southern Brave,,7,C Overton,"The Rose Bowl, Southampton",BJ Debenham,GD Lloyd,S Redfern,0,0,normal,0
+1417792,2024,Manchester,7/25/2024,Manchester Originals,Welsh Fire,Welsh Fire,field,Welsh Fire,,8,DJ Willey,"Old Trafford, Manchester",PR Pollard,SJ O'Shaughnessy,NJ Llong,0,0,normal,0
+1417793,2024,Leeds,7/26/2024,Trent Rockets,Northern Superchargers,Northern Superchargers,field,Trent Rockets,47,,CJ Green,"Headingley, Leeds",PR Pollard,SJ O'Shaughnessy,NJ Llong,0,0,normal,0
+1417794,2024,London,7/27/2024,London Spirit,Birmingham Phoenix,Birmingham Phoenix,field,Birmingham Phoenix,,3,SA Abbott,"Lord's, London",BJ Debenham,Rob White,AY Harris,0,0,normal,0
+1417795,2024,Cardiff,7/28/2024,Oval Invincibles,Welsh Fire,Welsh Fire,field,Oval Invincibles,10,,A Zampa,"Sophia Gardens, Cardiff",ID Blackwell,SJ O'Shaughnessy,S Redfern,0,0,normal,0
+1417796,2024,Manchester,7/29/2024,Trent Rockets,Manchester Originals,Manchester Originals,field,Trent Rockets,1,,T Banton,"Old Trafford, Manchester",AG Wharf,DJ Millns,GD Lloyd,0,0,normal,0
+1417797,2024,Leeds,7/30/2024,Southern Brave,Northern Superchargers,Southern Brave,bat,Northern Superchargers,,7,N Pooran,"Headingley, Leeds",MJ Saggers,PR Pollard,NL Bainton,0,0,normal,0
+1417798,2024,Nottingham,7/31/2024,Birmingham Phoenix,Trent Rockets,Trent Rockets,field,Birmingham Phoenix,6,,DR Mousley,"Trent Bridge,Nottingham",AG Wharf,BJ Debenham,NL Bainton,0,0,normal,0
+1417799,2024,London,8/1/2024,Welsh Fire,London Spirit,London Spirit,field,London Spirit,,3,LA Dawson,"Lord's, London",MJ Saggers,PR Pollard,NJ Llong,0,0,normal,0
+1417800,2024,Southampton,8/1/2024,Manchester Originals,Southern Brave,Southern Brave,field,Southern Brave,,7,C Overton,"The Rose Bowl, Southampton",ID Blackwell,Rob White,PK Baldwin,0,0,normal,0
+1417801,2024,London,8/2/2024,Northern Superchargers,Oval Invincilbes,Oval Invincibles,field,Northern Superchargers,19,,N Pooran,"Kennington Oval, London",GD Lloyd,M Burns,MJ Saggers,0,0,normal,0
+1417802,2024,Birmingham,8/3/2024,Southern Brave,Birmingham Phoenix,Birmingham Phoenix,field,Southern Brave,32,,JM Vince,"Edgbaston, Birmingham",PR Pollard,RJ Warren,PK Baldwin,0,0,normal,0
+1417803,2024,Nottingham,8/3/2024,Welsh Fire,Trent Rockets,Trent Rockets,field,Welsh Fire,4,,JM Bairstow,"Trent Bridge,Nottingham",MA Gough,NJ Llong,RA White,0,0,normal,0
+1417804,2024,London,8/4/2024,Oval Invincibles,London Spirit,Oval Invincibles,bat,Oval Invincibles,30,,SM Curran,"Lord's, London",M Burns,Stephen Harris,NJ Llong,0,0,normal,0
+1417805,2024,Leeds,8/4/2024,Northern Superchargers,Manchester Originals,Manchester Originals,field,Northern Superchargers,14,,HC Brook,"Headingley, Leeds",James Middlebrook,Rob White,NL Bainton,0,0,normal,0
+1417806,2024,Cardiff,8/5/2024,Southern Brave,Welsh Fire,Welsh Fire,field,Southern Brave,42,,JM Vince,"Sophia Gardens, Cardiff",M Burns,RJ Warren,PK Baldwin,0,0,normal,0
+1417807,2024,Manchester,8/6/2024,Oval Invincibles,Manchester Originals,Manchester Originals,field,Oval Invincibles,3,,SM Curran,"Old Trafford, Manchester",James Middlebrook,MJ Saggers,NL Bainton,0,0,normal,0
+1417808,2024,Birmingham,8/6/2024,Northern Superchargers,Birmingham Phoenix,Northern Superchargers,bat,Birmingham Phoenix,,10,TG Southee,"Edgbaston, Birmingham",MA Gough,Stephen Harris,NJ Llong,0,0,normal,0
+1417809,2024,Nottingham,8/7/2024,Trent Rockets,London Spirit,Trent Rockets,bat,Trent Rockets,22,,Rashid Khan,"Trent Bridge,Nottingham",James Middlebrook,RJ Warren,AY Harris,0,0,normal,0
+1417810,2024,Cardiff,8/8/2024,Northern Superchargers,Welsh Fire,Welsh Fire,field,,,,,"Sophia Gardens, Cardiff",MJ Saggers,M Burns,PK Baldwin,1,0,noresult,0
+1417811,2024,London,8/8/2024,Southern Brave,Oval Invincilbes,Oval Invincibles,field,Oval Invincibles,,6,SM Curran,"Kennington Oval, London",BJ Debenham,DJ Millns,NL Bainton,0,0,normal,0
+1417812,2024,London,8/9/2024,Manchester Originals,London Spirit,London Spirit,field,Manchester Originals,12,,PD Salt,"Lord's, London",SJ O'Shaughnessy,Tom Lungley,MJ Saggers,0,0,normal,0
+1417813,2024,Southampton,8/10/2024,Trent Rockets,Southern Brave,Trent Rockets,bat,Southern Brave,,2,KA Pollard,"The Rose Bowl, Southampton",DJ Millns,M Burns,NL Bainton,0,0,normal,0
+1417814,2024,Cardiff,8/10/2024,Welsh Fire,Birmingham Phoenix,Welsh Fire,bat,Birmingham Phoenix,,5,SA Abbott,"Sophia Gardens, Cardiff",BJ Debenham,Rob White,PK Baldwin,0,0,normal,0
+1417815,2024,London,8/11/2024,London Spirit,Oval Invincilbes,Oval Invincibles,field,Oval Invincibles,,9,A Zampa,"Kennington Oval, London",DJ Millns,James Middlebrook,MJ Saggers,0,0,normal,0
+1417816,2024,Manchester,8/11/2024,Manchester Originals,Northern Superchargers,Northern Superchargers,field,Northern Superchargers,,7,N Pooran,"Old Trafford, Manchester",GD Lloyd,RJ Warren,J Naeem,0,0,normal,0
+1417817,2024,Birmingham,8/12/2024,Trent Rockets,Birmingham Phoenix,Birmingham Phoenix,field,Birmingham Phoenix,,6,TG Southee,"Edgbaston, Birmingham",Mark Newell,SJ O'Shaughnessy,NJ Llong,0,0,normal,0
+1417818,2024,Leeds,8/13/2024,London Spirit,Northern Superchargers,Northern Superchargers,field,Northern Superchargers,21,,AU Rashid,"Headingley, Leeds",James Middlebrook,RJ Warren,J Naeem,0,0,normal,1
+1417819,2024,Southampton,8/14/2024,Welsh Fire,Southern Brave,Welsh Fire,bat,,,,,"The Rose Bowl, Southampton",MJ Saggers,Rob White,NL Bainton,1,0,noresult,0
+1417820,2024,Nottingham,8/14/2024,Oval Invincibles,Trent Rockets,Oval Invincibles,bat,Trent Rockets,,6,R Powell,"Trent Bridge,Nottingham",DJ Millns,ID Blackwell,NJ Llong,0,0,normal,0
+1417821,2024,Birmingham,8/15/2024,Manchester Originals,Birmingham Phoenix,Birmingham Phoenix,field,Birmingham Phoenix,,9,AF Milne,"Edgbaston, Birmingham",ID Blackwell,M Burns,PK Baldwin,0,0,normal,0
+1417822,2024,London,8/17/2024,Southern Brave,Birmingham Phoenix,Birmingham Phoenix,field,,,,JC Archer,"Kennington Oval, London",James Middlebrook,M Burns,NL Bainton,0,1,tie,0
+1417823,2024,London,8/18/2024,Oval Invincibles,Southern Brave,Southern Brave,field,Oval Invincibles,17,,S Mahmood,"Lord's, London",MJ Saggers,RJ Warren,PK Baldwin,0,0,normal,0
