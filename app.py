@@ -1,4 +1,4 @@
-# Importing the necessary dependencies
+
 import streamlit as st
 import pandas as pd
 import pickle
@@ -89,10 +89,10 @@ else:
     st.sidebar.button("Logout", on_click=lambda: st.session_state.update(logged_in=False, username=None, force_rerun=not st.session_state.force_rerun))
     st.success(f"Welcome, {st.session_state.username}!")
 
-    # Your existing app code goes here
+    
     # Declaring the teams
     teams = [
-        'Oval Invincible',
+        'Oval Invincibles',
         'London Spirit',
         'Southern Brave',
         'Welsh Fire',
