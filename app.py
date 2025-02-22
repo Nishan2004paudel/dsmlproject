@@ -243,7 +243,7 @@ else:
             wickets = int(st.number_input('Wickets Fallen', step=1))
 
         # Checking if the input values are valid or not
-        if overs >= 0 and overs <= 20 and wickets <= 10 and wickets >= 0 and score >= 0:
+        if overs >= 0 and overs < 20 and wickets < 10 and wickets >= 0 and score >= 0:
             if battingteam == bowlingteam:
                 st.write('To proceed, please select different teams because no match can be played between the same teams')
             else:
@@ -275,6 +275,7 @@ else:
 
                         # Displaying the predicted score
                         
+                    
 
                 # Catching ZeroDivisionError
                 except ZeroDivisionError:
